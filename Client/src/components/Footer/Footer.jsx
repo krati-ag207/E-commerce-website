@@ -21,17 +21,16 @@ const Footer = () => {
                     <div className="c-item">
                         <FaLocationArrow />
                         <div className="text">
-                            Kayaloram Rd, Punnamada, Kottankulangara, Alappuzha,
-                            Kerala, 688006
+                        17  Plot No. Shri Laxmi Co Op Soc Sec charkop Nr Prasad Hotel Kandivali, Mumbai, 400067
                         </div>
                     </div>
                     <div className="c-item">
                         <FaMobileAlt />
-                        <div className="text">Phone: 0471 272 0261</div>
+                        <div className="text">Phone: +91 96546 36766</div>
                     </div>
                     <div className="c-item">
                         <FaEnvelope />
-                        <div className="text">Email: store@jsdev.com</div>
+                        <div className="text">Email: pulseX@gmail.com</div>
                     </div>
                 </div>
                 <div className="col">
@@ -56,7 +55,7 @@ const Footer = () => {
             <div className="bottom-bar">
                 <div className="bottom-bar-content">
                     <span className="text">
-                        EZ STORE. 2023 CREATED BY KRATI PREMIUM E-COMMERCE
+                        PulseX. 2023 CREATED BY KRATI PREMIUM E-COMMERCE
                         SOLUTIONS.
                     </span>
                     <img src={Payment} />
